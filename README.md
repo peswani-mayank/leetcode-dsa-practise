@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/peswani-mayank/leetcode-dsa-practise/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/peswani-mayank/leetcode-dsa-practise/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/peswani-mayank/leetcode-dsa-practise/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/peswani-mayank/leetcode-dsa-practise/tree/master/0268-missing-number) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/peswani-mayank/leetcode-dsa-practise/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/peswani-mayank/leetcode-dsa-practise/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
